@@ -1,7 +1,9 @@
 # The "Guns vs. Butter" Dilemma in the New Era of Global Insecurity
 ### *Impact of Rearmament on Capital Formation in NATO's Eastern Flank States*
 
+![Python](https://img.shields.io/badge/Language-Python-blue)
 ![R](https://img.shields.io/badge/Language-R-blue)
+![Macroeconomics](https://img.shields.io/badge/Field-Macroeconomics-green)
 ![Econometrics](https://img.shields.io/badge/Field-Econometrics-green)
 ![Award](https://img.shields.io/badge/ASE_2026-2nd_Place-gold)
 
